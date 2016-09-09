@@ -6,3 +6,4 @@ This is the first Git repository for Daniel.
 Hope to make many more.
 
 Update using GitHub Desktop.
+Second update using GitHub Desktop.
